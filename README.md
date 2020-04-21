@@ -1,3 +1,4 @@
+This app was created using [React](https://reactjs.org/), [Material UI](https://material-ui.com/) and [Charts.js](https://www.chartjs.org/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
